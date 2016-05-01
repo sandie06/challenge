@@ -1,5 +1,5 @@
 Input the ticket types and capacity in Lottery_Machine.java setup().
-e.g. Add the following lines if the lottery machine can hold 50 Pick 3 tickets, 40 Pick 4 tickets, 60 Pick 5 tickets.
+e.g. Add the following lines if the lottery machine can hold 50 Pick 3 tickets, 40 Pick 4 tickets, 60 Pick 5 tickets.<br />
 	ticket_type_capacity.put(3, 50);<br />
 	ticket_type_capacity.put(4, 40);<br />
 	ticket_type_capacity.put(5, 60);<br />
